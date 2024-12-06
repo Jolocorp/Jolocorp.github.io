@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://jolocorp.github.io
+
+# Sitemaps
+Sitemap: https://jolocorp.github.io/sitemap.xml
